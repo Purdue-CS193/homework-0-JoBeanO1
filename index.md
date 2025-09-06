@@ -1,5 +1,16 @@
 ## Welcome to GitHub Pages
-test page
+
+# Joben Singh's First CS193 Homework
+
+- Getting hands-on experience with code right away
+
+- Learning about tools like GitHub that I'll use in my career
+
+- The feeling of accomplishment when my code finally works
+
+- Having a cool, professional-looking website to show off
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
